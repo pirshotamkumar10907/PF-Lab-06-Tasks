@@ -1,1 +1,1 @@
-#lab 06 tasks.
+#lab 06 tasks
